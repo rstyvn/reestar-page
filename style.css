@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 50px;
+}
+
+.topbar{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.topbar_heading{
+    color: white;
+}
+
+.topbar_text{
+    color: lightgrey;
+}
+
+.receipes{
+    text-align: center;
+}
+
+.receipe-block{
+    border: solid black 2px;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.receipe-block__button{
+    background-color: black;
+    border: none;
+    padding: 10px;
+    color: lightgray;
+}
+
+.contact-form{
+    text-align: center;
+    background-color: black;
+    color: lightgray;
+    padding: 10px;
+}
+
+.contact-form__row{
+    text-align: center;
+    display: inline-block;
+}
+
+.contact-form__field{
+    text-align: left;
+}
+
+.contact-form__button{
+    background-color: yellow;
+    border: none;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
